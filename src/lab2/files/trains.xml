@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Trains>
+    <train number="1">
+        <stations>
+            <station>
+                <name>Gomel</name>
+                <departuretime>2020/01/01 00:00</departuretime>
+            </station>
+            <station>
+                <name>Minsk</name>
+                <arrivaltime>2020/01/01 02:58</arrivaltime>
+            </station>
+        </stations>
+        <triptime>
+            <days>0</days>
+            <hours>2</hours>
+            <minutes>59</minutes>
+        </triptime>
+    </train>
+    <train number="2">
+        <stations>
+            <station>
+                <name>Minsk</name>
+                <departuretime>2020/01/01 03:00</departuretime>
+            </station>
+            <station>
+                <name>Gomel</name>
+                <arrivaltime>2020/01/01 06:19</arrivaltime>
+            </station>
+        </stations>
+    </train>
+    <train number="3">
+        <stations>
+            <station>
+                <name>Brest</name>
+                <departuretime>2020/01/02 05:00</departuretime>
+            </station>
+            <station>
+                <name>Berlin</name>
+                <arrivaltime>2020/01/03 09:30</arrivaltime>
+            </station>
+        </stations>
+    </train>
+    <train number="4">
+        <stations>
+            <station>
+                <name>Berlin</name>
+                <departuretime>2020/02/10 06:00</departuretime>
+            </station>
+            <station>
+                <name>Brest</name>
+                <arrivaltime>2020/02/11 10:34</arrivaltime>
+            </station>
+        </stations>
+    </train>
+    <train number="5">
+        <stations>
+            <station>
+                <name>Station1</name>
+                <departuretime>2020/02/10 16:00</departuretime>
+            </station>
+            <station>
+                <name>Station2</name>
+                <arrivaltime>2020/02/13 5:34</arrivaltime>
+            </station>
+        </stations>
+    </train>
+    <train number="5">
+        <stations>
+            <station>
+                <name>Station3</name>
+                <departuretime>2020/02/12 19:00</departuretime>
+            </station>
+            <station>
+                <name>Station4</name>
+                <arrivaltime>2020/02/13 14:34</arrivaltime>
+            </station>
+        </stations>
+    </train>
+</Trains>
